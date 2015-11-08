@@ -1,0 +1,23 @@
+name: Land Escapes
+favicon: null
+layout_spectrum: 0.3462250139564276
+typography_spectrum: 0.4780735883396119
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors: []
+  brandStrength: 0.8401912490371615
+  lightness: 0.7731779641471803
+  saturation: 0.7918142778798938
+  rhythmicContrast: 0.9838206805288792
+purpose: []
