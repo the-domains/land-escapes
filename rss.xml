@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Land Escapes]]></title>
         <description><![CDATA[Land Escapes]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/land-escapes/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 12 Nov 2015 19:57:55 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 12 Nov 2015 19:58:12 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/land-escapes/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/8d5aa90b-3c60-4d5a-9d8b-3cab6e6be21a.JPG">]]></description>
+            <link>https://thegrid.ai/land-escapes/1cff11ba-3420-4d17-ac4b-1f36be343688/index.html</link>
+            <guid isPermaLink="false">1cff11ba-3420-4d17-ac4b-1f36be343688</guid>
+            <pubDate>Thu, 12 Nov 2015 19:58:11 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/81bbd392-2904-4c39-821f-3162f4fb2f7a.jpg">]]></description>
-            <link>undefinedefebe0a1-b75f-42a9-a53a-fb4706af0358/index.html</link>
+            <link>https://thegrid.ai/land-escapes/efebe0a1-b75f-42a9-a53a-fb4706af0358/index.html</link>
             <guid isPermaLink="false">efebe0a1-b75f-42a9-a53a-fb4706af0358</guid>
             <pubDate>Thu, 12 Nov 2015 19:57:53 GMT</pubDate>
         </item>
